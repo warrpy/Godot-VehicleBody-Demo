@@ -1,6 +1,6 @@
 # Godot-VehicleBody-Demo
 
-This is a Godot demo project in support of my vehicle body youtube tutorial video.
+This is a Godot demo project in support of my vehicle body youtube tutorial [video](https://youtu.be/80YcMgGEpuY)
 
 It has been tested with Godot 3.4 stable release.
 You will need to download this in order to run this project.
