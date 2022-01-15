@@ -1,13 +1,14 @@
 # Godot-VehicleBody-Demo
 
-This is a Godot demo project in support of my vehicle body youtube tutorial [video](https://youtu.be/80YcMgGEpuY)
+This is a Godot demo project in support of my vehicle body YouTube tutorial [video](https://youtu.be/80YcMgGEpuY)
 
-It has been tested with Godot 3.4 stable release.
-You will need to download this in order to run this project.
+-----------------------------------------------------------------------------------------------------------------
 
-### License
+![](https://github.com/warrpy/Godot-VehicleBody-Demo/blob/main/Vehicle%20Tutorial/screenshot.png)
 
-Source code and all resources is released under GNU General Public License (see LICENSE).
+-----------------------------------------------------------------------------------------------------------------
+
+Godot version 3.4.2 is required.
 
 ### Useful links
 
