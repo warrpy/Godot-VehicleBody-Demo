@@ -8,10 +8,10 @@ This is a Godot demo project in support of my vehicle body YouTube tutorial [vid
 
 -----------------------------------------------------------------------------------------------------------------
 
-Godot version 3.4.2 is required.
+Godot version 3.4.3 is required.
 
 ### Useful links
 
 - [Godot Engine Website](https://godotengine.org)
 - [Documentation](http://docs.godotengine.org)
-- [Better Collada Exporter](https://github.com/godotengine/collada-exporter)
+- For this simple model I used [better collada exporter](https://github.com/godotengine/collada-exporter)
